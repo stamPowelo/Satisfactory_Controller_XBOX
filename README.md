@@ -19,6 +19,6 @@ INSTUSTRUCTIONS
     Download the profile and the .png info
     Start Antimicro with admin rights (just to be sure)
     Load the profile .amgp
-    Don't forget to start at the first set in the profile (RUN) or the third (WALK)
-    You must make 2 changes in the game controls. I wrote them in the .png file
+    Don't forget to start at the first set in the profile (MAIN)
+	Any changes in the game controls inGame are written in the png.
     Have fun!
